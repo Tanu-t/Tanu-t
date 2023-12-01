@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanu-t&label=Profile%20views&color=0e75b6&style=flat" alt="tanu-t" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and DSA**
-
 - 📫 How to reach me **tanutyagi904@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
