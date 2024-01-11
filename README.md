@@ -5,10 +5,10 @@
 
 
 - I live in Ghaziabad, India
--I am currently working with technologies based on Javascript. Technology such as ReactJS.
--I usually work with design systems and ui-component based react projects and make complex and beautiful components.
--I do Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
--Languages I know: JavaScript, Java.
+- I am currently working with technologies based on Javascript. Technology such as ReactJS.
+- I usually work with design systems and ui-component based react projects and make complex and beautiful components.
+- I do Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
+- Languages I know: JavaScript, Java.
 -------------------------------------------------------------------
 
 
